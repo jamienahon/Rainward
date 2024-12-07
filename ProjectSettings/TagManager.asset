@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GumDrop
+  - GameManager
+  - Ground
+  - Water
+  - SapTapper
+  - BouncePad
+  - MachineHazard
+  - DrowningCheck
+  - Weapon
+  - EnemyType1
+  - Sludge
+  - EnemyType2
+  - WombatHoleStart
+  - WombatHoleEnd
+  - HPMush
+  - ActiveCheckPoint
+  - InactiveCheckPoint
+  - MainCinCam
+  - DazeHitbox
+  - HazardPlayerDetection
+  - FTUE_Bogwarts
+  - FTUE_SapTapper
+  - FTUE_BouncePad
+  - FTUE_MechToads
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - PostProcessing
+  - Environment
+  - Collectibles
+  - Enemies
+  - IgnoreCamCollision
+  - CamCollision
+  - NonPlatform
+  - NonCamNonPlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

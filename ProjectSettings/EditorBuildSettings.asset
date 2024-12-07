@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/RW_Scene_MainMenu.unity
+    guid: c54bb332acb1a364a84f6a52832e3ff2
+  - enabled: 1
+    path: Assets/Scenes/RW_Scene_Cinematic.unity
+    guid: dd25d7cc9aee1a04c93beb81a1936102
+  - enabled: 1
+    path: Assets/Scenes/RW_Scene_Tutorial.unity
+    guid: 760ba90a50648a4419edff385ccafd34
+  - enabled: 1
+    path: Assets/Scenes/RW_Tristan.unity
+    guid: 95e080d18ae4fdb42b25ab5448093cdd
+  - enabled: 1
+    path: Assets/Scenes/RW_Ryan.unity
+    guid: 8b7fd447be15aab4ab5e9e98d7e707f9
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: d946aa8681e9d1044a0bc645c8070c6a,
+      type: 2}
